@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\NovelReader\NovelReader\obj\Debug\NovelReader.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NovelReader\NovelReader\obj\Debug\NovelReader.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NovelReader\NovelReader\bin\Debug\NovelReader.exe.config
+C:\Users\User\source\repos\NovelReader\NovelReader\bin\Debug\NovelReader.exe
+C:\Users\User\source\repos\NovelReader\NovelReader\bin\Debug\NovelReader.pdb
+C:\Users\User\source\repos\NovelReader\NovelReader\obj\Debug\NovelReader.exe
+C:\Users\User\source\repos\NovelReader\NovelReader\obj\Debug\NovelReader.pdb
